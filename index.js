@@ -11,6 +11,4 @@ function logShout(string){
 }
 
 function sayHiToGrandma(string){
-  if sayHiToGrandma(string) === string.toLowerCase
-  return "I can't heart you!"
-}
+  
